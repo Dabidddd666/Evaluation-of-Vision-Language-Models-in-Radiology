@@ -9,7 +9,7 @@ The advent of Vision Language Models (VLMs) such as Flamingo has marked a new er
 ### Background
 Recent strides in VLMs, including adaptations for the medical field like Med-Flamingo, highlight the immense potential of these models. However, challenges persist in contextual understanding of multimodal medical data. Models like CheXzero showcase the potential of deep learning in interpreting medical images without extensive manual annotations, a direction our research intends to expand upon.
 ### Objectives
-To create a versatile system that can process and analyze medical imaging, offering insights and interpretations through a combination of text and images.
+* To create a versatile system that can process and analyze medical imaging, offering insights and interpretations through a combination of text and images.
 Target specific medical imaging types (e.g., MRI, CT scans) and conditions, enhancing the model's applicability in real-world medical scenarios.
 Achieve adaptability across various medical specialties, ensuring comprehensive applicability of the system.
 ### Methodology
