@@ -48,7 +48,7 @@ The evaluation of our Medical Visual Question Answering System will be comprehen
 * Computational Overhead: The proposed system, given its intricacy and reliance on multiple models and components, could prove to be computationally intensive. This can limit its scalability and usability, especially in resource-constrained settings.
 * Dependency on High-Quality Annotations: The model's performance heavily relies on the quality of data annotations, particularly for fine-tuning. Poor or inconsistent annotations can hamper the model's ability to produce accurate results.
 * Transferability to Diverse Medical Domains: While the system is designed to be general-purpose, its effectiveness might vary across different medical specialties. Results on a radiology dataset might not necessarily translate to equal success in, say, dermatology.
-#### Ethical Considerations and Patient Privacy
+### Ethical Considerations and Patient Privacy
 Emphasis on ethical data usage, ensuring patient confidentiality and consent, and adherence to medical data regulations.
 ### Impact and Future Directions
 * Exploration of the system's potential impact on healthcare, including patient outcomes and diagnostic processes.
