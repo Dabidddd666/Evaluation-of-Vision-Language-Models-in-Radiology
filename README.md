@@ -1,9 +1,9 @@
-# Undergraduate_Research
-This is my undergraduate research project with Professor João Sedoc.
+# Research
+This is my research project with Professor João Sedoc.
 
 ## Research Proposal
 ### Title
-Development of an Advanced Medical Visual Question Answering System Using Multimodal Models.
+Evaluation of Vision and Language Models for Radiology
 ### Introduction
 The advent of Vision Language Models (VLMs) such as Flamingo has marked a new era in AI, particularly in the processing of interleaved visual and textual data. This research aims to harness these advances to develop a medical visual question answering system. The system will analyze medical imaging, generating relevant responses in text or visual format, thereby aiding medical diagnostics and patient care.
 ### Background
